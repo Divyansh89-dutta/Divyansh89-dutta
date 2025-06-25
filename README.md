@@ -1,5 +1,23 @@
 # 💫 About Me:
-👀 Interested In<br>Crafting visually engaging and interactive web experiences<br>GSAP, Locomotive Scroll, Three.js, and Matter.js for smooth animations<br>Exploring full-stack development with Node.js, Express, and MongoDB<br>Creating performance-optimized and accessible web applications<br>🌱 Currently Learning<br>Advanced React concepts and state management<br>Backend integration with databases and APIs<br>Optimizing animations and UI/UX for better performance<br>💞️ Looking to Collaborate On<br>Creative web projects with animations and smooth interactions<br>Full-stack applications using React, Node.js, and MongoDB<br>Open-source contributions in the frontend and animation space<br>📫 Reach Me<br>💼 LinkedIn:www.linkedin.com/in/divyansh-duttaroy<br>📧 Email: divyanshduttaroy163@gmail.com<br>😄 Pronouns<br>He/Him
+👀 Interests
+Passionate about crafting visually compelling and interactive web experiences using modern animation libraries like GSAP, Locomotive Scroll, Three.js, and Matter.js.
+Exploring the full-stack ecosystem with Node.js, Express, and MongoDB, and committed to building performance-optimized, accessible, and responsive web applications.
+
+🌱 Currently Learning
+
+Advanced React concepts and scalable state management using Zustand and TanStack Query
+
+Backend integration with REST APIs, authentication flows, and real-time communication via Socket.IO
+
+Best practices in UI/UX optimization and high-performance animations
+
+🤝 Open to Collaborations On
+
+Creative frontend projects with rich animations and smooth user interactions
+
+Full-stack applications using React, Node.js, and MongoDB
+
+Contributing to open-source projects in the frontend and animation space<br>📫 Reach Me<br>💼 LinkedIn:www.linkedin.com/in/divyansh-duttaroy<br>📧 Email: divyanshduttaroy163@gmail.com<br>😄 Pronouns<br>He/Him
 
 
 ## 🌐 Socials:
